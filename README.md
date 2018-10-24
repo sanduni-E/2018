@@ -22,3 +22,4 @@ Go ahead and click that `Create new file` button up [there](https://github.com/H
 Your Pull Request is now open for for code owners & maintainers to review!
 
 
+p.s. notice any tpyos that need fixin'? 👀

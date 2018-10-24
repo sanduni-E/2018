@@ -1,4 +1,4 @@
-# Hacktoberfest 2018
+# Hacktoberfest Boulder 2018
 
 
 ![hacktoberfest_2018_opengraph_1200x630](https://user-images.githubusercontent.com/3988879/47463470-8b35cc80-d7a3-11e8-8a7f-a4e72f082c69.png)
